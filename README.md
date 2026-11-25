@@ -33,12 +33,19 @@ O projeto tem como objetivo reunir consultas úteis para o dia a dia de um DBA, 
 
 | Categoria | Descrição | Status |
 |---|---|---|
-| [🔍 Health Check](./01-health-check) | Diagnóstico de saúde da instância | ✅ Disponível |
-| ⚡ Performance | Consultas, bloqueios, índices e waits | 📌 Planejado |
-| 💾 Backup e Restore | Histórico e diagnóstico de backups | 📌 Planejado |
-| 📊 Monitoring | Monitoramento de recursos e capacidade | 📌 Planejado |
-| 🔐 Security | Logins, usuários e permissões | 📌 Planejado |
-| 🛠️ Maintenance | Índices, estatísticas e manutenção | 📌 Planejado |
+| [🔍 Health Check](./01-health-check) | Diagnóstico de saúde da instância | ✅ Testado |
+| [⚡ Performance](./02-performance) | Sessões ativas, bloqueios e consultas | 🧪 Em validação |
+| [💾 Backup e Restore](./03-backup-restore) | Histórico e diagnóstico de backups | 🧪 Em validação |
+| [📊 Monitoring](./04-monitoring) | Memória, discos, arquivos e jobs | 🧪 Em validação |
+| [🔐 Security](./05-security) | Logins, usuários e permissões | 🧪 Em validação |
+| [🛠️ Maintenance](./06-maintenance) | Fragmentação e utilização de índices | 🧪 Em validação |
+
+## 🧪 Validação dos scripts
+
+O projeto está em desenvolvimento contínuo.
+
+Acompanhe os testes, versões do SQL Server e resultados de validação no documento [VALIDACAO.md](./VALIDACAO.md).
+
 
 ## ⚙️ Requisitos
 
