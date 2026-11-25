@@ -33,12 +33,12 @@ O projeto tem como objetivo reunir consultas úteis para o dia a dia de um DBA, 
 
 | Categoria | Descrição | Status |
 |---|---|---|
-| Health Check | Diagnóstico de saúde da instância | Em desenvolvimento |
-| Performance | Consultas, bloqueios, índices e waits | Planejado |
-| Backup e Restore | Histórico e diagnóstico de backups | Planejado |
-| Monitoring | Monitoramento de recursos e capacidade | Planejado |
-| Security | Logins, usuários e permissões | Planejado |
-| Maintenance | Índices, estatísticas e manutenção | Planejado |
+| [🔍 Health Check](./01-health-check) | Diagnóstico de saúde da instância | ✅ Disponível |
+| ⚡ Performance | Consultas, bloqueios, índices e waits | 📌 Planejado |
+| 💾 Backup e Restore | Histórico e diagnóstico de backups | 📌 Planejado |
+| 📊 Monitoring | Monitoramento de recursos e capacidade | 📌 Planejado |
+| 🔐 Security | Logins, usuários e permissões | 📌 Planejado |
+| 🛠️ Maintenance | Índices, estatísticas e manutenção | 📌 Planejado |
 
 ## ⚙️ Requisitos
 
