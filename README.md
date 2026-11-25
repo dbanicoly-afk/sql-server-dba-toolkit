@@ -31,14 +31,16 @@ O projeto tem como objetivo reunir consultas úteis para o dia a dia de um DBA, 
 
 ## 📂 Organização do repositório
 
-| Categoria | Descrição | Status |
-|---|---|---|
-| [🔍 Health Check](./01-health-check) | Diagnóstico de saúde da instância | ✅ Testado |
-| [⚡ Performance](./02-performance) | Sessões ativas, bloqueios e consultas | 🧪 Em validação |
-| [💾 Backup e Restore](./03-backup-restore) | Histórico e diagnóstico de backups | 🧪 Em validação |
-| [📊 Monitoring](./04-monitoring) | Memória, discos, arquivos e jobs | 🧪 Em validação |
-| [🔐 Security](./05-security) | Logins, usuários e permissões | 🧪 Em validação |
-| [🛠️ Maintenance](./06-maintenance) | Fragmentação e utilização de índices | 🧪 Em validação |
+| Categoria | Descrição |
+|---|---|
+| [🔍 Health Check](./01-health-check) | Diagnóstico de saúde da instância |
+| [⚡ Performance](./02-performance) | Sessões ativas, bloqueios e consultas |
+| [💾 Backup e Restore](./03-backup-restore) | Histórico e diagnóstico de backups |
+| [📊 Monitoring](./04-monitoring) | Memória, discos, arquivos e jobs |
+| [🔐 Security](./05-security) | Logins, usuários e permissões |
+| [🛠️ Maintenance](./06-maintenance) | Fragmentação e utilização de índices |
+
+> Projeto em desenvolvimento contínuo. Consulte a [documentação de validação](./VALIDACAO.md) para acompanhar os testes e a compatibilidade dos scripts.
 
 ## 🧪 Validação dos scripts
 
