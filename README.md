@@ -46,7 +46,6 @@ O projeto está em desenvolvimento contínuo.
 
 Acompanhe os testes, versões do SQL Server e resultados de validação no documento [VALIDACAO.md](./VALIDACAO.md).
 
-
 ## ⚙️ Requisitos
 
 - Microsoft SQL Server.
