@@ -42,12 +42,6 @@ O projeto tem como objetivo reunir consultas úteis para o dia a dia de um DBA, 
 
 > Projeto em desenvolvimento contínuo. Consulte a [documentação de validação](./VALIDACAO.md) para acompanhar os testes e a compatibilidade dos scripts.
 
-## 🧪 Validação dos scripts
-
-O projeto está em desenvolvimento contínuo.
-
-Acompanhe os testes, versões do SQL Server e resultados de validação no documento [VALIDACAO.md](./VALIDACAO.md).
-
 ## ⚙️ Requisitos
 
 - Microsoft SQL Server.
